@@ -1,6 +1,6 @@
 # Lee's Custom Ergodox Firmware
 
-This is the firmware that I've generated for my new [Infinity Ergodox][ergodox] keyboard.
+This is the firmware that I've generated for my [Infinity Ergodox][ergodox] keyboard.
 
 ## Requirements
 
