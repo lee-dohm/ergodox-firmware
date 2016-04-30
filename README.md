@@ -5,6 +5,10 @@ This is the firmware that I've generated for my [Infinity Ergodox][ergodox] keyb
 ## Requirements
 
 * **MUST** use Dvorak layout as the default layer
+* **MUST** move keys important to programming as little as possible - braces, `+`, `-`, `/`, etc
+* **MUST** have a shiftable layer for access to media keys - Volume Up, Volume Down, Mute, Play/Pause, Next, and Previous
+* **MUST** have a key combination to enable flashing
+* **SHOULD** offer a QWERTY layout on a lockable layer
 
 ## Installation
 
