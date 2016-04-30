@@ -1,5 +1,5 @@
 Name = "MDErgo1";
-Layout = "Default";
+Layout = "Blank";
 Base = "Blank";
 Version = "0.1";
 Author = "HaaTa (Jacob Alexander) 2015";
@@ -8,7 +8,6 @@ Date = "2015-09-12";
 Generator = "KIICONF 0.2";
 
 U"EQUALS" : flashMode();
-U"7" : U"NUMLOCK";
 U"8" : U"P/";
 U"9" : U"P*";
 U"0" : U"P-";
@@ -24,7 +23,7 @@ U"M" : U"P1";
 U"COMMA" : U"P2";
 U"PERIOD" : U"P3";
 U"SLASH" : U"PENTER";
-U"SPACE" : U"P0";
+U"DOWN" : U"P0";
 U"UP" : U"P.";
 U"RIGHT" : U"PENTER";
 
